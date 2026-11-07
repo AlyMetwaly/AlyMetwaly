@@ -7,7 +7,7 @@ Based in Espoo, Finland.
 ## Open to view
 
 - **[alymetwaly.com](https://alymetwaly.com)**: my site, with its source at [AlyMetwaly/alymetwaly.com](https://github.com/AlyMetwaly/alymetwaly.com). More on [what I am building](https://alymetwaly.com/building).
-- **AI coding adoption playbook** (coming soon): a practical path for moving AI coding tools from access to regular use across engineering teams.
+- **[AI coding adoption playbook](https://github.com/AlyMetwaly/ai-coding-adoption-playbook)**: a practical rollout kit for moving AI coding tools from access to regular use across engineering teams, with a small adoption scorecard.
 
 ## Also building
 
